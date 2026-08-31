@@ -7,13 +7,13 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
-I'm a Data Scientist at [Marine Biologics](https://www.marinebiologics.com/) currently working on developing predictive models to make food and beverage ingredient discovery and development more standardized and driven by a variety of data sources. 
+I'm a Senior Research Scientist in Discovery ML at [Iambic Therapeutics](https://www.iambic.ai/).  
 
 I have a background in computational and theoretical physical chemistry, particularly in statistical mechanics and biophysics. I've worked in the biopharma space for a few years at the intersection of cheminformatics and machine learning, with emphasis on pose/binding mode prediction, (equivariant) graph neural networks, and model explainability. My scientific publications are available on [Google Scholar](https://scholar.google.com/citations?user=qrFDlk4AAAAJ&hl=en). 
 
 ## Experience 
 
-* Marine Biologics, Director of AI/ML 
+* Marine Biologics, Head AI Scientist 
 * Independent, Data Science Consultant 
 * Numerion Labs (fka Atomwise), Cheminformatics Scientist II 
 * Enel X, Lead Software Engineer in Distributed Energy Resources  
